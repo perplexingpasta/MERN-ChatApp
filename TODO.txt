@@ -1,0 +1,10 @@
+add embla carousel for background ✅
+change font ✅
+
+form clears after signup or login ❌
+
+password visibility eye icon ✅
+seen/ unseen functionality
+
+make it responsive
+make it accessible

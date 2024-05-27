@@ -1,0 +1,83 @@
+/* src/fonts.css */
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("./assets/fonts/Montserrat-Variable.ttf") format("truetype");
+  font-weight: 100 200 300 400 500 600 700 800 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("./assets/fonts/Montserrat-Italic-Variable.ttf") format("truetype");
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Urbanist";
+  src: url("./assets/fonts/Urbanist-Variable.ttf") format("truetype");
+  font-weight: 100 200 300 400 500 600 700 800 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Urbanist";
+  src: url("./assets/fonts/Urbanist-Italic-Variable.ttf") format("truetype");
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Palanquin";
+  src: url("./assets/fonts/Palanquin-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Palanquin";
+  src: url("./assets/fonts/Palanquin-ExtraLight.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Palanquin";
+  src: url("./assets/fonts/Palanquin-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Palanquin";
+  src: url("./assets/fonts/Palanquin-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Palanquin";
+  src: url("./assets/fonts/Palanquin-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Palanquin";
+  src: url("./assets/fonts/Palanquin-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Palanquin";
+  src: url("./assets/fonts/Palanquin-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Outfit";
+  src: url("./assets/fonts/Outfit-Variable.ttf") format("truetype");
+  font-weight: 100 200 300 400 500 600 700 800 900;
+  font-style: normal;
+}
