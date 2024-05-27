@@ -4,7 +4,17 @@ change font ✅
 form clears after signup or login ❌
 
 password visibility eye icon ✅
-seen/ unseen functionality
 
+seen/ unseen functionality
+emoji icon on left
 make it responsive
 make it accessible
+
+
+APP'S FEATURES:
+real time talking
+beautiful interface
+online status of person
+user search
+secure authentication
+text notification sound and animation
