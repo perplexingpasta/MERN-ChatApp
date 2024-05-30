@@ -3,7 +3,7 @@ import { BsSend } from "react-icons/bs";
 import useSendMessage from "../../hooks/useSendMessage";
 import EmojiPicker from "../EmojiPicker";
 
-// CHANGES HERE
+// CHANGES FOR IMAGE SHARING
 
 const MessageInput = () => {
   const [message, setMessage] = useState("");

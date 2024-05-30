@@ -8,9 +8,13 @@ emoji icon on left ✅
 logout text tooltip on hover ✅
 UI change from blue to red ✅
 
+show date beside time w every text ✅
+search searches username and not fullname ✅
+
+WATCH THE FIRST CHATAPP VIDEO FOR THIS:
 share images
-search searches username and not fullname
 seen/ unseen functionality
+
 make it responsive
 make it accessible
 
@@ -19,6 +23,8 @@ APP'S FEATURES:
 real time talking
 beautiful interface
 online status of person
-user search
+user search by username
 secure authentication
 text notification sound and animation
+scrolls to the bottom in chats
+emoji icon on left
