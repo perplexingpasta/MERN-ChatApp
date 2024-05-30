@@ -31,7 +31,7 @@ const SignUp = () => {
     <div className="flex flex-col items-center justify-center min-w-96 mx-auto">
       <div className="w-full p-6 rounded-lg shadow-md bg-gray-400 bg-clip-padding backdrop-filter backdrop-blur-lg bg-opacity-0">
         <h1 className="text-3xl font-semibold text-center text-gray-300">
-          Sign Up <span className="text-blue-500">ChatApp</span>
+          Sign Up <span className="text-red-400">ChatApp</span>
         </h1>
 
         <form onSubmit={handleSubmit}>
@@ -104,7 +104,7 @@ const SignUp = () => {
 
           <NavLink
             to={"/login"}
-            className="text-sm hover:underline hover:text-blue-600 inline-block"
+            className="text-sm hover:underline hover:text-red-400 inline-block"
           >
             Already have an account?
           </NavLink>

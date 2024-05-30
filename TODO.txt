@@ -1,12 +1,16 @@
 add embla carousel for background ✅
 change font ✅
+password visibility eye icon ✅
 
 form clears after signup or login ❌
 
-password visibility eye icon ✅
+emoji icon on left ✅
+logout text tooltip on hover ✅
+UI change from blue to red ✅
 
+share images
+search searches username and not fullname
 seen/ unseen functionality
-emoji icon on left
 make it responsive
 make it accessible
 

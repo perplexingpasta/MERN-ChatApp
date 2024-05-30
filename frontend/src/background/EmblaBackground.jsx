@@ -25,7 +25,7 @@ export function EmblaCarousel() {
   return (
     <>
       <div className="embla absolute" ref={emblaRef}>
-        <div className="embla__container h-[100vh]">
+        <div className="embla__container h-screen">
           <HeroEmblaCard src={img1} />
           <HeroEmblaCard src={img7} />
           <HeroEmblaCard src={img2} />
