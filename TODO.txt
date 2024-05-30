@@ -11,6 +11,8 @@ UI change from blue to red ✅
 show date beside time w every text ✅
 search searches username and not fullname ✅
 
+reverted chakra ✅
+
 WATCH THE FIRST CHATAPP VIDEO FOR THIS:
 share images
 seen/ unseen functionality
