@@ -29,7 +29,7 @@ const Message = ({ message }) => {
         {message.message}
       </div>
 
-      <div className={`chat-footer text-gray-500 text-xs flex gap-1 items-center`}>
+      <div className={`chat-footer text-gray-300 text-xs flex gap-1 items-center`}>
         {formattedTime}
       </div>
     </div>

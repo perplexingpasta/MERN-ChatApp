@@ -13,6 +13,9 @@ search searches username and not fullname ✅
 
 reverted chakra ✅
 
+dark gradient over embla for better visibility ✅
+little ui color changes for better visibility ✅
+
 WATCH THE FIRST CHATAPP VIDEO FOR THIS:
 share images
 seen/ unseen functionality
